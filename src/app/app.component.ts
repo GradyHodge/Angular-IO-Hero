@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular-IO-Tutorial';
-  subtitle = "My Angular Project based on IO documentation"
+  subtitle = 'My Angular Project based on IO documentation';
 }
